@@ -1,0 +1,102 @@
+{
+  "201": {
+    "name": "Название блюда, на три строки может быть максимально...",
+    "img": "assets/images/content/burger/burger.png",
+    "bju": {
+      "prot": "27.1",
+      "fats": "15.9",
+      "carb": "19.2",
+      "total": "285"
+    },
+    "price": "5.90"
+  },
+  "202": {
+    "name": "Название блюда",
+    "img": "assets/images/content/soup/soup1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "15.9",
+      "carb": "19.2",
+      "total": "275"
+    },
+    "price": "6.90"
+  },
+  "203": {
+    "name": "Название блюда",
+    "img": "assets/images/content/soup/soup1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "385"
+    },
+    "price": "7.90"
+  },
+  "204": {
+    "name": "Название блюда, на три строки",
+    "img": "assets/images/content/soup/soup1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "355"
+    },
+    "price": "8.90"
+  },
+  "205": {
+    "name": "Название блюда, на три строки может быть максимально...",
+    "img": "assets/images/content/soup/soup1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "185"
+    },
+    "price": "9.90"
+  },
+  "206": {
+    "name": "Название блюда, на три строки может быть максимально...",
+    "img": "assets/images/content/soup/soup1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "225"
+    },
+    "price": "10.90"
+  },
+  "207": {
+    "name": "Название блюда",
+    "img": "assets/images/content/soup/soup1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "305"
+    },
+    "price": "11.90"
+  },
+  "208": {
+    "name": "Название блюда, на три строки может быть максимально...",
+    "img": "assets/images/content/soup/soup1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "315"
+    },
+    "price": "12.90"
+  },
+  "209": {
+    "name": "Название блюда, на три строки может быть максимально...",
+    "img": "assets/images/content/soup/soup1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "485"
+    },
+    "price": "15.90"
+  }
+}
+

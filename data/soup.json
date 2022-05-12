@@ -1,0 +1,101 @@
+{
+  "101": {
+    "name": "Итальянский минестроне",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "15.9",
+      "carb": "19.2",
+      "total": "285"
+    },
+    "price": "5.90"
+  },
+  "102": {
+    "name": "Итальянский",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "15.9",
+      "carb": "19.2",
+      "total": "275"
+    },
+    "price": "6.90"
+  },
+  "103": {
+    "name": "Итальянский",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "385"
+    },
+    "price": "7.90"
+  },
+  "104": {
+    "name": "Название блюда, на три строки",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "355"
+    },
+    "price": "8.90"
+  },
+  "105": {
+    "name": "Итальянский минестроне",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "185"
+    },
+    "price": "9.90"
+  },
+  "106": {
+    "name": "Итальянский минестроне",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "225"
+    },
+    "price": "10.90"
+  },
+  "107": {
+    "name": "Итальянский минестроне с добавкой",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "305"
+    },
+    "price": "11.90"
+  },
+  "108": {
+    "name": "Итальянский минестроне",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "315"
+    },
+    "price": "12.90"
+  },
+  "109": {
+    "name": "Итальянский минестроне",
+    "img": "assets/images/content/soup/soup_small1.jpg",
+    "bju": {
+      "prot": "27.1",
+      "fats": "20.9",
+      "carb": "28.2",
+      "total": "485"
+    },
+    "price": "15.90"
+  }
+}
