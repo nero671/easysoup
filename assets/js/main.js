@@ -764,7 +764,12 @@
         var orderCardResultLast = document.querySelector('.order__card-result_last');
         var jsDetoxInputPromocode = document.querySelector('.js-detox-input-promocode');
         var jsDetoxInputPromocodeInput = document.querySelector('.input-rounded__input > input[type="text"]');
+        var test = document.querySelector('.js-detox-button-help_pro');
         console.log(jsDetoxInputPromocodeInput);
+
+        test.addEventListener('click', () => {
+
+        })
 
         const cartResult = () => {
           detoxResultInfoCount.textContent = detoxBox.value + 'шт';
@@ -820,33 +825,33 @@
         });
 
         buttonCheck.addEventListener('click', function () {
-          _this2.sets[currentSet].classList[_this2._changeActive(currentSet) ? 'add' : 'remove']('active');
+          // _this2.sets[currentSet].classList[_this2._changeActive(currentSet) ? 'add' : 'remove']('active');
           var fieldNumInput = _this2.sets[currentSet].querySelector('.field-num__input');
           fieldNumInput.value = fieldNumInputModal.value;
           window.MODAL.closeAllModals();
         });
 
         buttonCheckPro.addEventListener('click', function () {
-          _this2.sets[currentSet].classList[_this2._changeActive(currentSet) ? 'add' : 'remove']('active');
+          // _this2.sets[currentSet].classList[_this2._changeActive(currentSet) ? 'add' : 'remove']('active');
           var fieldNumInput = _this2.sets[currentSet].querySelector('.field-num__input');
 
           fieldNumInput.value = fieldNumInputModalPro.value;
           window.MODAL.closeAllModals();
         });
 
-        fieldNum.addEventListener('click', function () {
-          if (fieldNumInputModal.value == 0) {
-            var detoxSet = modalDetail.querySelector('.js-detox-button-help');
-            detoxSet.classList.remove('checked');
-          }
-        });
+        // fieldNum.addEventListener('click', function () {
+        //   if (fieldNumInputModal.value == 0) {
+        //     var detoxSet = modalDetail.querySelector('.js-detox-button-help');
+        //     detoxSet.classList.remove('checked');
+        //   }
+        // });
 
-        fieldNumPro.addEventListener('click', function () {
-          if (fieldNumInputModalPro.value == 0) {
-            var detoxSet = modalDetailPro.querySelector('.js-detox-button-help_pro');
-            detoxSet.classList.remove('checked');
-          }
-        });
+        // fieldNumPro.addEventListener('click', function () {
+        //   if (fieldNumInputModalPro.value == 0) {
+        //     var detoxSet = modalDetailPro.querySelector('.js-detox-button-help_pro');
+        //     detoxSet.classList.remove('checked');
+        //   }
+        // });
 
         this.sets.forEach(function (set, i) {
           // var button = set.querySelector('.js-data-set-button');
